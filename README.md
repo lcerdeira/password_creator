@@ -9,6 +9,7 @@ Create an application that generates a random password based on user-selected cr
 2 - randomly generate a password that meets certain criteria
 3 - create a strong password that provides greater security
 ```
+![Alt text](Assets/03-javascript-homework-demo.png?raw=true "Demo app")
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
